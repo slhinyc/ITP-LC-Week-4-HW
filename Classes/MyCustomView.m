@@ -102,15 +102,15 @@
 	
 	//CGContextRotateCTM(context, rotation);
 	
-	CGContextSetRGBStrokeColor(context, 1.0, 0.0, 0.0, 1.0);
+	CGContextSetRGBStrokeColor(context, 1.0, 1.0, 1.0, 1.0);
 	
 	if(!twoFingers)	{
 	
-	CGContextSetRGBFillColor(context, 0.0, 1.0, 0.0, 1.0);
+	CGContextSetRGBFillColor(context, 1.0, 1.0, 1.0, 1.0);
 	
 	} else {
 	
-	CGContextSetRGBFillColor(context, 0.0, 1.0, 1.0, 1.0);
+	CGContextSetRGBFillColor(context, 0.0, 0.8, 0.8, 0.8);
 	
 	}
 	
