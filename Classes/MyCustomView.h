@@ -16,6 +16,8 @@
 	CGColorRef				aColor;
 	CGPoint					location;
 	CGPoint					previousLocation;
+	Boolean					firstTouch;
+
 	BOOL					twoFingers;
 	
 	IBOutlet UILabel		*xField;

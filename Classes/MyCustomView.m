@@ -67,7 +67,6 @@
 	
     UITouch *touch = [[event touchesForView:self] anyObject];
 	location = [touch locationInView:self];
-	location.y = bounds.size.height - location.y;
 
 	[self setNeedsDisplay];
 }
@@ -75,6 +74,16 @@
 - (void) touchesMoved:(NSSet *)touches withEvent:(UIEvent *)event {
 	
 	NSLog(@"Touches moved count %d, %@", [touches count], touches);
+	
+	UITouch *touch = [[event touchesForView:self] anyObject];
+
+	if (firstTouch) {
+		firstTouch = NO;
+		previousLocation = [touch previousLocationInView:self];
+	} else {
+		location = [touch locationInView:self];
+		previousLocation = [touch previousLocationInView:self];
+	}
 		
 	[self setNeedsDisplay];
 }
@@ -95,8 +104,10 @@
 	// Drawing code
 	NSLog(@"drawRect");
 	
-	CGFloat centerx = rect.size.width/2;
-	CGFloat centery = rect.size.height/2;
+	//CGFloat centerx = rect.size.width/2;
+	//CGFloat centery = rect.size.height/2;
+	CGFloat centerx = location.x;
+	CGFloat centery = location.y;
 	CGFloat half = squareSize/2;
 	CGRect theRect = CGRectMake(-half, -half, squareSize, squareSize);
 	
