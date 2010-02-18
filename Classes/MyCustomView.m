@@ -22,7 +22,7 @@
 
 - (void) awakeFromNib {
 	
-	squareSize = 100.0f;
+	squareSize = 50.0f;
 	twoFingers = NO;
 	rotation = 0.5f;
 	
@@ -65,13 +65,17 @@
 		twoFingers = YES;
 	}
 	
+    UITouch *touch = [[event touchesForView:self] anyObject];
+	location = [touch locationInView:self];
+	location.y = bounds.size.height - location.y;
+
 	[self setNeedsDisplay];
 }
 
 - (void) touchesMoved:(NSSet *)touches withEvent:(UIEvent *)event {
 	
 	NSLog(@"Touches moved count %d, %@", [touches count], touches);
-	
+		
 	[self setNeedsDisplay];
 }
 
@@ -80,6 +84,7 @@
 	NSLog(@"Touches moved count %d, %@", [touches count], touches);
 	
 	twoFingers = NO;
+
 	
 	[self setNeedsDisplay];
 }
@@ -100,7 +105,7 @@
 	CGContextSaveGState(context);
 	CGContextTranslateCTM(context, centerx, centery);
 	
-	//CGContextRotateCTM(context, rotation);
+	CGContextRotateCTM(context, rotation);
 	
 	CGContextSetRGBStrokeColor(context, 1.0, 1.0, 1.0, 1.0);
 	

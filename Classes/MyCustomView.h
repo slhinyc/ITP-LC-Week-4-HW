@@ -14,12 +14,13 @@
 	CGFloat					squareSize;
 	CGFloat					rotation;
 	CGColorRef				aColor;
+	CGPoint					location;
+	CGPoint					previousLocation;
 	BOOL					twoFingers;
 	
 	IBOutlet UILabel		*xField;
 	IBOutlet UILabel		*yField;
 	IBOutlet UILabel		*zField;
-
 }
 
 @end

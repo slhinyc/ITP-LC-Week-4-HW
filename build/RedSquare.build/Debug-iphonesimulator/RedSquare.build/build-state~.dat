@@ -1,0 +1,312 @@
+TRedSquare
+v7
+r0
+t288050741.079425
+cCheck dependencies
+cProcessInfoPlistFile "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/Info.plist" RedSquare-Info.plist
+cCompileXIB "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/MainWindow.xib"
+cCompileXIB "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquareViewController.xib"
+cProcessPCH /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-dlrcwbhfmusptaesbzwbjupompbt/RedSquare_Prefix.pch.gch RedSquare_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/main.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/RedSquareAppDelegate.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/RedSquareViewController.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/MyCustomView.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B5FF22600000000000000EE
+t1264579110
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.h
+c000000004B7B10910000000000000181
+t1266356369
+s385
+i<UIKit/UIKit.h>
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m
+c000000004B7B16540000000000000A66
+t1266357844
+s2662
+i"MyCustomView.h"
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.h
+c000000004B7B09FB00000000000001E3
+t1266354683
+s483
+i<UIKit/UIKit.h>
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m
+c000000004B7B09FB000000000000026C
+t1266354683
+s620
+i"RedSquareAppDelegate.h"
+i"RedSquareViewController.h"
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.h
+c000000004B7B09FB00000000000000EC
+t1266354683
+s236
+i<UIKit/UIKit.h>
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m
+c000000004B7B09FB00000000000005B7
+t1266354683
+s1463
+i"RedSquareViewController.h"
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/MainWindow.xib
+c000000004B7B09FB0000000000002464
+t1266354683
+s9316
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquareViewController.xib
+c000000004B7B09FB00000000000018E3
+t1266354683
+s6371
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquare_Prefix.pch
+c000000004B7B09FB00000000000000BB
+t1266354683
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app
+t2
+s0
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app.dSYM
+t2
+s0
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/Info.plist
+t1266357939
+s572
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/MainWindow.nib
+t1266357940
+s1499
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/PkgInfo
+t1266357939
+s8
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/RedSquare
+t2
+s0
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/RedSquareViewController.nib
+t1266357939
+s1151
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/MyCustomView.o
+t2
+s0
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/RedSquare.LinkFileList
+c000000004B7B16B300000000000002AB
+t1266357939
+s683
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/RedSquareAppDelegate.o
+t1266357941
+s38184
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/RedSquareViewController.o
+t1266357941
+s30040
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/main.o
+t1266357941
+s6024
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m
+c000000004B7B09FB0000000000000163
+t1266354683
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-dlrcwbhfmusptaesbzwbjupompbt/RedSquare_Prefix.pch.gch
+t1266357940
+s13034960
+
+NRedSquare-Info.plist
+c000000004B7B09FB000000000000038D
+t1266354683
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288050739#288050739#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/MyCustomView.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288050741.026235
+e288050741.079348
+r0
+xCompileC
+xbuild/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/MyCustomView.o
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m: In function '-[MyCustomView awakeFromNib]':
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: 'MyCustomView' may not respond to '-configureAccelerometer'
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: (Messages without a matching method signature
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: will be assumed to return 'id' and accept
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: '...' as arguments.)
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m: In function '-[MyCustomView configureAccelerometer]':
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:40: warning: class 'MyCustomView' does not implement the 'UIAccelerometerDelegate' protocol
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m: In function '-[MyCustomView accelerometer:didAccelerate:]':
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:50: error: request for member 'x' in something not a structure or union
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:51: error: request for member 'y' in something not a structure or union
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:52: error: request for member 'z' in something not a structure or union
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m: At top level:
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:125: error: expected identifier or '(' before '}' token
+o{standard input}:182:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"
+o{standard input}:182:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:173:non-relocatable subtraction expression, "LC2" minus "L00000000003$pb"
+o{standard input}:173:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:171:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"
+o{standard input}:171:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:160:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000003$pb"
+o{standard input}:160:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:157:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000003$pb"
+o{standard input}:157:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:118:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"
+o{standard input}:118:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:110:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"
+o{standard input}:110:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:105:non-relocatable subtraction expression, "LC1" minus "L00000000002$pb"
+o{standard input}:105:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:97:non-relocatable subtraction expression, "LC0" minus "L00000000002$pb"
+o{standard input}:97:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:57:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:57:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:53:non-relocatable subtraction expression, "L_OBJC_CLASS_MyCustomView" minus "L00000000001$pb"
+o{standard input}:53:symbol: "L_OBJC_CLASS_MyCustomView" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_MyCustomView
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol LC0
+o{standard input}:unknown:Undefined local symbol LC1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol LC2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+lSLF07#2@103"Compile /Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288050741#288050741#0(5060"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m: In function '-[MyCustomView awakeFromNib]':/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: 'MyCustomView' may not respond to '-configureAccelerometer'/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: (Messages without a matching method signature/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: will be assumed to return 'id' and accept/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: '...' as arguments.)/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m: In function '-[MyCustomView configureAccelerometer]':/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:40: warning: class 'MyCustomView' does not implement the 'UIAccelerometerDelegate' protocol/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m: In function '-[MyCustomView accelerometer:didAccelerate:]':/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:50: error: request for member 'x' in something not a structure or union/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:51: error: request for member 'y' in something not a structure or union/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:52: error: request for member 'z' in something not a structure or union/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m: At top level:/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:125: error: expected identifier or '(' before '}' token{standard input}:182:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"{standard input}:182:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:173:non-relocatable subtraction expression, "LC2" minus "L00000000003$pb"{standard input}:173:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:171:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"{standard input}:171:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:160:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000003$pb"{standard input}:160:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:157:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000003$pb"{standard input}:157:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:118:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"{standard input}:118:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:110:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"{standard input}:110:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:105:non-relocatable subtraction expression, "LC1" minus "L00000000002$pb"{standard input}:105:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:97:non-relocatable subtraction expression, "LC0" minus "L00000000002$pb"{standard input}:97:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:57:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:57:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:53:non-relocatable subtraction expression, "L_OBJC_CLASS_MyCustomView" minus "L00000000001$pb"{standard input}:53:symbol: "L_OBJC_CLASS_MyCustomView" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_MyCustomView{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol LC1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol LC2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_58(22@59"'MyCustomView' may not respond to '-configureAccelerometer'288050741#141#169#0(6@95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288050644#31#0#31#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)288050741#310#155#0(6@95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288050644#31#0#31#0#0"0(22@78"Class 'MyCustomView' does not implement the 'UIAccelerometerDelegate' protocol288050741#897#188#0(6@95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288050644#40#0#40#0#45"class '*' does not implement the '*' protocol0(4@60"Request for member 'x' in something not a structure or union288050741#1242#168#0(6@95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288050644#50#0#50#0#0"0(4@60"Request for member 'y' in something not a structure or union288050741#1410#168#0(6@95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288050644#51#0#51#0#0"0(4@60"Request for member 'z' in something not a structure or union288050741#1578#168#0(6@95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288050644#52#0#52#0#0"0(23@13"At top level:288050741#1746#111#0(6@95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288050644#0#0#0#0#0"0(4@43"Expected identifier or '(' before '}' token288050741#1857#152#0(6@95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288050644#125#0#125#0#19"expected * before *0(0#0#95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m4300885448#2319"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-generated-files.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-own-target-headers.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-all-target-headers.hmap" -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-project-headers.hmap" "-F/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/include" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/DerivedSources/i386" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/DerivedSources" -include /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-dlrcwbhfmusptaesbzwbjupompbt/RedSquare_Prefix.pch -c "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m" -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/MyCustomView.o"1#
+
+CCompileC build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/RedSquareAppDelegate.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288050740.901558
+e288050741.026112
+r1
+xCompileC
+xbuild/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/RedSquareAppDelegate.o
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m288050740#288050741#0(0"0(0#0#103"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m4300885448#2335"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-generated-files.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-own-target-headers.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-all-target-headers.hmap" -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-project-headers.hmap" "-F/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/include" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/DerivedSources/i386" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/DerivedSources" -include /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-dlrcwbhfmusptaesbzwbjupompbt/RedSquare_Prefix.pch -c "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m" -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/RedSquareAppDelegate.o"0#
+
+CCompileC build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/RedSquareViewController.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288050741.009506
+e288050741.072823
+r1
+xCompileC
+xbuild/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/RedSquareViewController.o
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m288050741#288050741#0(0"0(0#0#106"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m4300885448#2341"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-generated-files.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-own-target-headers.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-all-target-headers.hmap" -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-project-headers.hmap" "-F/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/include" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/DerivedSources/i386" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/DerivedSources" -include /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-dlrcwbhfmusptaesbzwbjupompbt/RedSquare_Prefix.pch -c "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m" -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/RedSquareViewController.o"0#
+
+CCompileC build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/main.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288050740.900396
+e288050741.009402
+r1
+xCompileC
+xbuild/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/main.o
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m288050740#288050741#0(0"0(0#0#79"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m4300885448#2295"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-generated-files.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-own-target-headers.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-all-target-headers.hmap" -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-project-headers.hmap" "-F/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/include" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/DerivedSources/i386" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/DerivedSources" -include /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-dlrcwbhfmusptaesbzwbjupompbt/RedSquare_Prefix.pch -c "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m" -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/MainWindow.xib"
+s288050739.622288
+e288050740.168495
+r1
+xCompileXIB
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib288050739#288050740#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#87"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/MainWindow.xib4300885448#592"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/MainWindow.nib" "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/MainWindow.xib"0#
+
+CCompileXIB "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquareViewController.xib"
+s288050739.623584
+e288050739.915886
+r1
+xCompileXIB
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquareViewController.xib
+lSLF07#2@38"CompileXIB RedSquareViewController.xib288050739#288050739#0(0"0(0#0#100"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquareViewController.xib4300885448#618"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/RedSquareViewController.nib" "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquareViewController.xib"0#
+
+CGenerateDSYMFile "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app.dSYM" "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/RedSquare"
+r0
+
+CLd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/RedSquare" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/Info.plist" RedSquare-Info.plist
+s288050739.587679
+e288050739.622199
+r1
+xProcessInfoPlistFile
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/Info.plist
+xRedSquare-Info.plist
+lSLF07#2@28"Process RedSquare-Info.plist288050739#288050739#0(0"0(0#0#93"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquare-Info.plist7598259023906958336#593"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RedSquare-Info.plist -genpkginfo "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app/Info.plist"0#
+
+CProcessPCH /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-dlrcwbhfmusptaesbzwbjupompbt/RedSquare_Prefix.pch.gch RedSquare_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288050740.168680
+e288050740.900268
+r1
+xProcessPCH
+x/var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-dlrcwbhfmusptaesbzwbjupompbt/RedSquare_Prefix.pch.gch
+xRedSquare_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile RedSquare_Prefix.pch288050740#288050740#0(0"0(0#0#93"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquare_Prefix.pch4300885448#2149"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-generated-files.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-own-target-headers.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-all-target-headers.hmap" -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/RedSquare-project-headers.hmap" "-F/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/include" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/DerivedSources/i386" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphonesimulator/RedSquare.build/DerivedSources" -c "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquare_Prefix.pch" -o /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-dlrcwbhfmusptaesbzwbjupompbt/RedSquare_Prefix.pch.gch0#
+
+CTouch "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphonesimulator/RedSquare.app"
+r0
+

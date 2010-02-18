@@ -1,0 +1,359 @@
+TRedSquare
+v7
+r0
+t288209392.867555
+cCheck dependencies
+cCpResource build/Debug-iphoneos/RedSquare.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/Info.plist" RedSquare-Info.plist
+cCompileXIB "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/MainWindow.xib"
+cCompileXIB "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquareViewController.xib"
+cProcessPCH /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-bksczhnxeojjczfqfvvubvraxnkp/RedSquare_Prefix.pch.gch RedSquare_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/main.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/RedSquareAppDelegate.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/RedSquareViewController.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/MyCustomView.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquare" normal armv6
+cGenerateDSYMFile "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app.dSYM" "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquare"
+cProcessProductPackaging "/Users/slh/Library/MobileDevice/Provisioning Profiles/9D61F409-605F-4F14-A64A-9D91CF1FB3D2.mobileprovision" "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/embedded.mobileprovision"
+cTouch "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare.xcent"
+cCodeSign "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B2FA6BF0000000000000110
+t1261414079
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+c000000004B2B3B9F00000000000000DD
+t1261124511
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.h
+c000000004B7B2D970000000000000181
+t1266363799
+s385
+i<UIKit/UIKit.h>
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m
+c000000004B7B39850000000000000ACA
+t1266366853
+s2762
+i"MyCustomView.h"
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.h
+c000000004B7B09FB00000000000001E3
+t1266354683
+s483
+i<UIKit/UIKit.h>
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m
+c000000004B7B09FB000000000000026C
+t1266354683
+s620
+i"RedSquareAppDelegate.h"
+i"RedSquareViewController.h"
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.h
+c000000004B7B09FB00000000000000EC
+t1266354683
+s236
+i<UIKit/UIKit.h>
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m
+c000000004B7B09FB00000000000005B7
+t1266354683
+s1463
+i"RedSquareViewController.h"
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/MainWindow.xib
+c000000004B7B09FB0000000000002464
+t1266354683
+s9316
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquareViewController.xib
+c000000004B7B1DF30000000000005044
+t1266359795
+s20548
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquare_Prefix.pch
+c000000004B7B09FB00000000000000BB
+t1266354683
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app
+t1266516592
+s374
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app.dSYM
+t1266516587
+s102
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/Info.plist
+t1266516586
+s638
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/MainWindow.nib
+t1266516587
+s1499
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/PkgInfo
+t1266516586
+s8
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquare
+t1266516587
+s24028
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquareViewController.nib
+t1266516587
+s2118
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/ResourceRules.plist
+t1266516586
+s485
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/embedded.mobileprovision
+t1266516588
+s74587
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/MyCustomView.o
+t1266516587
+s21464
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/RedSquare.LinkFileList
+c000000004B7D826A0000000000000293
+t1266516586
+s659
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/RedSquareAppDelegate.o
+t1266516587
+s40628
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/RedSquareViewController.o
+t1266516587
+s29604
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/main.o
+t1266516587
+s6616
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare.xcent
+t1266516588
+s322
+
+N/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m
+c000000004B7B09FB0000000000000163
+t1266354683
+s355
+i<UIKit/UIKit.h>
+
+N/Users/slh/Library/MobileDevice/Provisioning Profiles/9D61F409-605F-4F14-A64A-9D91CF1FB3D2.mobileprovision
+c000000004B770D90000000000001235B
+t1266093456
+s74587
+
+N/var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-bksczhnxeojjczfqfvvubvraxnkp/RedSquare_Prefix.pch.gch
+t1266516587
+s7876792
+
+NRedSquare-Info.plist
+c000000004B7B09FB000000000000038D
+t1266354683
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288209386#288209386#0(0"0(0#1#0"4300885448#0"0#
+
+CCodeSign "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app"
+s288209388.025772
+e288209392.867481
+r1
+xCodeSign
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app
+lSLF07#2@43"CodeSign build/Debug-iphoneos/RedSquare.app288209388#288209392#0(0"0(0#0#107"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app4300885448#804"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Sara Leeun Huong (3494WEG9S4)" "--resource-rules=/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/ResourceRules.plist" --entitlements "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare.xcent" "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app"0#
+
+CCompileC build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/MyCustomView.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s288209387.675968
+e288209387.765591
+r1
+xCompileC
+xbuild/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/MyCustomView.o
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m: In function '-[MyCustomView awakeFromNib]':
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: 'MyCustomView' may not respond to '-configureAccelerometer'
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: (Messages without a matching method signature
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: will be assumed to return 'id' and accept
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: '...' as arguments.)
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m: In function '-[MyCustomView configureAccelerometer]':
+o/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:40: warning: class 'MyCustomView' does not implement the 'UIAccelerometerDelegate' protocol
+lSLF07#2@103"Compile /Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288209387#288209387#0(1085"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m: In function '-[MyCustomView awakeFromNib]':/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: 'MyCustomView' may not respond to '-configureAccelerometer'/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: (Messages without a matching method signature/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: will be assumed to return 'id' and accept/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:31: warning: '...' as arguments.)/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m: In function '-[MyCustomView configureAccelerometer]':/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m:40: warning: class 'MyCustomView' does not implement the 'UIAccelerometerDelegate' protocol3(22@59"'MyCustomView' may not respond to '-configureAccelerometer'288209387#141#169#0(6@95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288059653#31#0#31#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)288209387#310#155#0(6@95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288059653#31#0#31#0#0"0(22@78"Class 'MyCustomView' does not implement the 'UIAccelerometerDelegate' protocol288209387#897#188#0(6@95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m288059653#40#0#40#0#45"class '*' does not implement the '*' protocol0(0#0#95"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m4300885448#2188"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-generated-files.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-own-target-headers.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-all-target-headers.hmap" -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-project-headers.hmap" "-F/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/include" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/DerivedSources/armv6" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/DerivedSources" -include /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-bksczhnxeojjczfqfvvubvraxnkp/RedSquare_Prefix.pch -c "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/MyCustomView.m" -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/MyCustomView.o"0#
+
+CCompileC build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/RedSquareAppDelegate.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s288209387.581205
+e288209387.675865
+r1
+xCompileC
+xbuild/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/RedSquareAppDelegate.o
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m288209387#288209387#0(0"0(0#0#103"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m4300885448#2204"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-generated-files.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-own-target-headers.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-all-target-headers.hmap" -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-project-headers.hmap" "-F/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/include" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/DerivedSources/armv6" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/DerivedSources" -include /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-bksczhnxeojjczfqfvvubvraxnkp/RedSquare_Prefix.pch -c "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareAppDelegate.m" -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/RedSquareAppDelegate.o"0#
+
+CCompileC build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/RedSquareViewController.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s288209387.655319
+e288209387.702487
+r1
+xCompileC
+xbuild/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/RedSquareViewController.o
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m288209387#288209387#0(0"0(0#0#106"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m4300885448#2210"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-generated-files.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-own-target-headers.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-all-target-headers.hmap" -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-project-headers.hmap" "-F/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/include" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/DerivedSources/armv6" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/DerivedSources" -include /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-bksczhnxeojjczfqfvvubvraxnkp/RedSquare_Prefix.pch -c "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/Classes/RedSquareViewController.m" -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/RedSquareViewController.o"0#
+
+CCompileC build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/main.o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s288209387.579950
+e288209387.655217
+r1
+xCompileC
+xbuild/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/main.o
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m288209387#288209387#0(0"0(0#0#79"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m4300885448#2164"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-generated-files.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-own-target-headers.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-all-target-headers.hmap" -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-project-headers.hmap" "-F/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/include" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/DerivedSources/armv6" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/DerivedSources" -include /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-bksczhnxeojjczfqfvvubvraxnkp/RedSquare_Prefix.pch -c "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/main.m" -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/main.o"0#
+
+CCompileXIB "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/MainWindow.xib"
+s288209386.758667
+e288209387.039617
+r1
+xCompileXIB
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288209386#288209387#0(0"0(0#0#87"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/MainWindow.xib4300885448#578"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/MainWindow.nib" "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/MainWindow.xib"0#
+
+CCompileXIB "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquareViewController.xib"
+s288209386.759689
+e288209387.044674
+r1
+xCompileXIB
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquareViewController.xib
+lSLF07#2@38"CompileXIB RedSquareViewController.xib288209386#288209387#0(0"0(0#0#100"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquareViewController.xib4300885448#604"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquareViewController.nib" "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquareViewController.xib"0#
+
+CCpResource build/Debug-iphoneos/RedSquare.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+s288209386.711881
+e288209386.758523
+r1
+xCpResource
+xbuild/Debug-iphoneos/RedSquare.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist288209386#288209386#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist4300885448#556"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app"0#
+
+CGenerateDSYMFile "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app.dSYM" "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquare"
+s288209387.988455
+e288209388.001311
+r1
+xGenerateDSYMFile
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app.dSYM
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquare
+lSLF07#2@101"GenerateDSYMFile build/Debug-iphoneos/RedSquare.app.dSYM build/Debug-iphoneos/RedSquare.app/RedSquare288209387#288209388#0(0"0(0#0#117"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquare4300885448#476"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquare" -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app.dSYM"0#
+
+CLd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquare" normal armv6
+s288209387.765682
+e288209387.988359
+r1
+xLd
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquare
+xnormal
+xarmv6
+lSLF07#2@122"Link /Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquare288209387#288209387#0(0"0(0#0#0"4300885448#1085"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk "-L/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos" "-F/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos" -filelist "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/Objects-normal/armv6/RedSquare.LinkFileList" -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/RedSquare"0#
+
+CProcessInfoPlistFile "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/Info.plist" RedSquare-Info.plist
+s288209386.712762
+e288209386.719878
+r1
+xProcessInfoPlistFile
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/Info.plist
+xRedSquare-Info.plist
+lSLF07#2@28"Process RedSquare-Info.plist288209386#288209386#0(0"0(0#0#93"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquare-Info.plist4300885448#714"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RedSquare-Info.plist -genpkginfo "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/ResourceRules.plist" -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/Info.plist"0#
+
+CProcessPCH /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-bksczhnxeojjczfqfvvubvraxnkp/RedSquare_Prefix.pch.gch RedSquare_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s288209387.044778
+e288209387.579803
+r1
+xProcessPCH
+x/var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-bksczhnxeojjczfqfvvubvraxnkp/RedSquare_Prefix.pch.gch
+xRedSquare_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile RedSquare_Prefix.pch288209387#288209387#0(0"0(0#0#93"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquare_Prefix.pch4300885448#2024"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-generated-files.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-own-target-headers.hmap" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-all-target-headers.hmap" -iquote "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare-project-headers.hmap" "-F/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/include" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/DerivedSources/armv6" "-I/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/DerivedSources" -c "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/RedSquare_Prefix.pch" -o /var/folders/12/12V0LVsxFAyB1f7iWthAz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RedSquare_Prefix-bksczhnxeojjczfqfvvubvraxnkp/RedSquare_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/slh/Library/MobileDevice/Provisioning Profiles/9D61F409-605F-4F14-A64A-9D91CF1FB3D2.mobileprovision" "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/embedded.mobileprovision"
+s288209388.001485
+e288209388.003599
+r1
+xProcessProductPackaging
+x/Users/slh/Library/MobileDevice/Provisioning Profiles/9D61F409-605F-4F14-A64A-9D91CF1FB3D2.mobileprovision
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/embedded.mobileprovision
+lSLF07#2@192"ProcessProductPackaging "/Users/slh/Library/MobileDevice/Provisioning Profiles/9D61F409-605F-4F14-A64A-9D91CF1FB3D2.mobileprovision" build/Debug-iphoneos/RedSquare.app/embedded.mobileprovision288209388#288209388#0(0"0(0#0#132"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/embedded.mobileprovision4300885448#495"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/slh/Library/MobileDevice/Provisioning Profiles/9D61F409-605F-4F14-A64A-9D91CF1FB3D2.mobileprovision" -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare.xcent"
+s288209388.006230
+e288209388.025674
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare.xcent
+lSLF07#2@183"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare.xcent288209388#288209388#0(0"0(0#0#141"/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare.xcent4300885448#512"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist -entitlements -format xml -o "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/RedSquare.build/Debug-iphoneos/RedSquare.build/RedSquare.xcent"0#
+
+CTouch "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app"
+s288209388.003658
+e288209388.006162
+r1
+xTouch
+x/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app
+lSLF07#2@113"Touch /Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app288209388#288209388#0(0"0(0#0#0"4300885448#338"    cd "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/slh/Documents/SLH/WORK/Scuola/Spring 10/LittleComputers/RedSquare/build/Debug-iphoneos/RedSquare.app"0#
+
