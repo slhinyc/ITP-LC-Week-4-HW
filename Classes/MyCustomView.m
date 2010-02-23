@@ -61,12 +61,16 @@
 	
 	NSLog(@"Touches began count %d, %@", [touches count], touches);
 	
-	if ([touches count] > 1) {
-		twoFingers = YES;
-	}
+	UITouch *touch = [[event touchesForView:self] anyObject];
+	UITouch *touch2 = [[event touchesForView:self] anyObject];
+	location = [touch locationInView:self];		
+	location2 = [touch2 locationInView:self];
 	
-    UITouch *touch = [[event touchesForView:self] anyObject];
-	location = [touch locationInView:self];
+	if ([touches count] > 1) {
+		
+		twoFingers = YES;
+		
+	} 
 
 	[self setNeedsDisplay];
 }
@@ -74,15 +78,28 @@
 - (void) touchesMoved:(NSSet *)touches withEvent:(UIEvent *)event {
 	
 	NSLog(@"Touches moved count %d, %@", [touches count], touches);
-	
 	UITouch *touch = [[event touchesForView:self] anyObject];
-
+	UITouch *touch2 = [[event touchesForView:self] anyObject];
+	
 	if (firstTouch) {
+		
 		firstTouch = NO;
 		previousLocation = [touch previousLocationInView:self];
+		previousLocation2 = [touch2 previousLocationInView:self];
+		
 	} else {
+
 		location = [touch locationInView:self];
 		previousLocation = [touch previousLocationInView:self];
+		location2 = [touch2 locationInView:self];
+		previousLocation2 = [touch2 previousLocationInView:self];
+	
+	}
+	
+	if (twoFingers) {
+		
+		rotation = atan2((previousLocation.y - location.y),(previousLocation.x - location.x));  
+		
 	}
 		
 	[self setNeedsDisplay];
@@ -91,9 +108,11 @@
 - (void) touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event {
 	
 	NSLog(@"Touches moved count %d, %@", [touches count], touches);
+	UITouch *touch = [[event touchesForView:self] anyObject];
+	lastLocation = [touch locationInView:self];		
+
 	
 	twoFingers = NO;
-
 	
 	[self setNeedsDisplay];
 }
@@ -104,12 +123,24 @@
 	// Drawing code
 	NSLog(@"drawRect");
 	
-	//CGFloat centerx = rect.size.width/2;
-	//CGFloat centery = rect.size.height/2;
-	CGFloat centerx = location.x;
-	CGFloat centery = location.y;
+	CGFloat centerx = rect.size.width/2;
+	CGFloat centery = rect.size.height/2;
 	CGFloat half = squareSize/2;
+	
 	CGRect theRect = CGRectMake(-half, -half, squareSize, squareSize);
+	
+	if (twoFingers)	{
+		
+		centerx = lastLocation.x;
+		centery = lastLocation.y;
+		
+	} else {
+		
+		
+		centerx = location.x;
+		centery = location.y;
+		
+	}
 	
 	CGContextRef context = UIGraphicsGetCurrentContext();
 	
@@ -120,17 +151,19 @@
 	
 	CGContextSetRGBStrokeColor(context, 1.0, 1.0, 1.0, 1.0);
 	
-	if(!twoFingers)	{
 	
-	CGContextSetRGBFillColor(context, 1.0, 1.0, 1.0, 1.0);
-	
+	if (!twoFingers)	{
+		
+		CGContextSetRGBFillColor(context, 1.0, 1.0, 1.0, 1.0);
+		
 	} else {
-	
-	CGContextSetRGBFillColor(context, 0.0, 0.8, 0.8, 0.8);
-	
+		
+		CGContextSetRGBFillColor(context, 0.0, 0.8, 0.8, 0.8);
+		
 	}
+
 	
-	// Draw a rect with a red stroke
+	// Draw a rect
 	CGContextFillRect(context, theRect);
 	CGContextStrokeRect(context, theRect);
 	

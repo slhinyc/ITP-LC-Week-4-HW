@@ -16,6 +16,9 @@
 	CGColorRef				aColor;
 	CGPoint					location;
 	CGPoint					previousLocation;
+	CGPoint					lastLocation;
+	CGPoint					location2;
+	CGPoint					previousLocation2;
 	Boolean					firstTouch;
 
 	BOOL					twoFingers;
